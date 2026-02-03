@@ -199,7 +199,7 @@ Full Project Code Generated
 
 ## 📜 License
 
-MIT (or your license)
+MIT
 
 ---
 
