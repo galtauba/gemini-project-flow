@@ -5,8 +5,6 @@ description: Generate ai_prompt.md from a project book markdown file using bundl
 
 # Gemini Project Flow
 
-Follow the original two-phase flow from run_codex.py, but execute it within Gemini CLI.
-
 ## Inputs
 
 - Ask for the path to the project book markdown file if not provided.
